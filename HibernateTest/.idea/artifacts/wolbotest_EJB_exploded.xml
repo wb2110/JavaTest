@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="wolbotest:EJB exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/wolbotest_EJB_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="wolbotest/ejb/EJB" />
+      <element id="module-output" name="wolbotest" />
+    </root>
+  </artifact>
+</component>
